@@ -1,3 +1,6 @@
+# Experiment with AWS CDK Lambda Cognito Auth
+based off of https://betterprogramming.pub/create-a-serverless-authentication-service-with-aws-cdk-cognito-and-api-gateway-ffbd8da6a659
+
 # Welcome to your CDK TypeScript project
 
 This is a blank project for CDK development with TypeScript.
